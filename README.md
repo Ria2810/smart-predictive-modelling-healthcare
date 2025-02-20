@@ -6,7 +6,7 @@
 
 Check out the demo of the meeting scheduler in action:
 
-![Demo Video](demo.gif)
+![Demo Video](new-demo.gif)
 
 ---
 
